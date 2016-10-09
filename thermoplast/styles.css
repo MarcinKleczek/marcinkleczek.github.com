@@ -50,7 +50,6 @@
     position:relative;
   }
   .table-pro tr.current td small {
-      position: absolute;
       bottom: 0.2rem;
       right: 0.2rem;
       font-size: 1rem;
