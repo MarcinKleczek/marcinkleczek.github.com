@@ -49,6 +49,9 @@
     font-size: 4rem;
     position:relative;
   }
+  .table-pro tr.smalldesc td small {
+    font-size: 0.8rem !important;
+  }
   .table-pro tr.current td small {
       bottom: 0.2rem;
       right: 0.2rem;
