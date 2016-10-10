@@ -68,3 +68,52 @@
       text-align: center;
       border-color: black;
   }
+
+div.status {
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 20px;
+}
+
+
+div.status div.outline2 {
+  background-color: #fcebbf;
+}
+div.status div.outline3 {
+  background-color: #fcd3bf;
+}
+div.status div.outline {
+  background-color: #c0fcbf;
+
+}
+div.status div.line {  
+  font-size: 1.6rem;
+  line-height: 1.8rem;
+  padding-top: 0.5rem;
+  padding-left: 1rem;
+  margin-bottom: 0.5rem;
+}
+div.status div.status-now2 {
+  background-color: #ed753d;
+}
+div.status div.status-now {
+  background-color: #42f47d;
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+div.status div.postep {
+  padding-bottom: 0.5rem;
+}
+div.status .d,
+div.status .e,
+div.status .q {
+  font-size: 1rem;
+  display: inline-block;
+  width: 30%;
+}
+div.status  .d div,
+div.status  .e div,
+div.status .q div {
+  background-color: red;
+}
