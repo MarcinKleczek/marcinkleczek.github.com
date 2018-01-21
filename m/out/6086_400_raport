@@ -1,0 +1,7 @@
+
+Warning: imagecreatefrombmp(all/6086_400_raport): failed to open stream: No such file or directory in C:\Users\marcin\PhpstormProjects\utils\marek-konwersja-grafiki-dywany\marek.php on line 168
+
+Warning: imagesx() expects parameter 1 to be resource, boolean given in C:\Users\marcin\PhpstormProjects\utils\marek-konwersja-grafiki-dywany\marek.php on line 169
+
+Warning: imagesy() expects parameter 1 to be resource, boolean given in C:\Users\marcin\PhpstormProjects\utils\marek-konwersja-grafiki-dywany\marek.php on line 170
+{"x":null,"y":null,"color2letter":[],"colorsRGB":[],"rows":[]}
